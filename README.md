@@ -161,6 +161,8 @@ A small selection of other guides and tutorial for Rust:
 - [Rust Before Main - Ryan Levick - Rust Linz, July 2022](https://www.youtube.com/watch?v=q8irLfXwaFM)
 - [Rust Linz, October 2021 - Rust Closures by Rainer Stropek](https://www.youtube.com/watch?v=R0ufQe5DRaw&t=135s)
 - [Rust Linz, September 2021 - Yoshua Wuyts - Futures Concurrency in the Future, Maybe](https://www.youtube.com/watch?v=QlPDI9IsSXU)
+- [Comprehending Proc Macros](https://www.youtube.com/watch?v=SMCRQj9Hbx8)
+- [CppCon - C++/Rust Interop: Using Bridges in Practice](https://tylerjw.dev/posts/20240920-cppcon-cpp-rust-interop/)
 
 ## Rust Books Recommendation
 - Claus Matzinger • Learn Rust Programming • https://amzn.to/3PeN0Fx
@@ -195,6 +197,7 @@ Please see the [Little Book of Rust Books](https://lborb.github.io/book/) for ev
 - [Creating an embedded device driver in Rust](https://blog.mjolner.tech/device-driver-rust/?_bhlid=7a7dfc01dddce41a3f81485829d11c82808d1c49)
 - [Device-Driver Toolkit by Dion Dokter](https://diondokter.github.io/device-driver/)
 - [Running Rust on STM32 Microcontrollers: A Practical Guide for Embedded Enthusiasts](https://medium.com/@saifhajsalem12/running-rust-on-stm32-microcontrollers-a-practical-guide-for-embedded-enthusiasts-fed6550e4aef)
+- [Intro to Embassy : embedded development with async Rust](https://www.youtube.com/watch?v=pDd5mXBF4tY)
 
 ## Miscellaneous
 - [The AOSP and AAOS Meetup](https://aospandaaos.github.io/meetup.html)
