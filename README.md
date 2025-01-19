@@ -113,6 +113,7 @@ A small selection of other guides and tutorial for Rust:
 - [A journey into File Transfer Protocols in Rust](https://blog.veeso.dev/blog/en/a-journey-into-file-transfer-protocols-in-rust/)
 - [Structured error handling in Rust](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling#structured-error-handling-in-rust)
 - [Understanding Rust Generics and How to use them](https://blog.logrocket.com/understanding-rust-generics/)
+- [Code Browser for C/C++/Rust](https://codebrowser.dev/)
 
 ## Interesting Rust Projects
 - [Rust - Implementing WebSockets](https://www.thespatula.io/rust/rust_websocket/)
@@ -191,6 +192,9 @@ Please see the [Little Book of Rust Books](https://lborb.github.io/book/) for ev
 - [Pico Pico - Embedded Programming with Rust](https://pico.implrust.com/index.html)
 - [Rust 🦀 on the RP2040](https://baileytownsend.dev/articles/getting-started-with-rust-an-rp2040)
 - [Implementing async APIs for microcontroller peripherals](https://beaurivage.io/atsamd-hal-async/)
+- [Creating an embedded device driver in Rust](https://blog.mjolner.tech/device-driver-rust/?_bhlid=7a7dfc01dddce41a3f81485829d11c82808d1c49)
+- [Device-Driver Toolkit by Dion Dokter](https://diondokter.github.io/device-driver/)
+- [Running Rust on STM32 Microcontrollers: A Practical Guide for Embedded Enthusiasts](https://medium.com/@saifhajsalem12/running-rust-on-stm32-microcontrollers-a-practical-guide-for-embedded-enthusiasts-fed6550e4aef)
 
 ## Miscellaneous
 - [The AOSP and AAOS Meetup](https://aospandaaos.github.io/meetup.html)
