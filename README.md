@@ -136,6 +136,7 @@ A small selection of other guides and tutorial for Rust:
 - [Building a real-time chat using WebSockets over HTTP/2 streams](https://c410-f3r.github.io/thoughts/building-a-real-time-chat-using-web-sockets-over-http2-streams/)
 - [Streaming Audio Apis: The Model](https://xd009642.github.io/2024/12/03/streaming-audio-APIs-the-model.html)
 - [Context-Generic Programming Patterns Book](https://patterns.contextgeneric.dev/)
+- [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 
 ## YouTube Videos to look for (what I watched until now)
 - [All Rust features explained](https://www.youtube.com/watch?v=784JWR4oxOI)
