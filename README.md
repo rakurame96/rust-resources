@@ -114,6 +114,8 @@ A small selection of other guides and tutorial for Rust:
 - [Structured error handling in Rust](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling#structured-error-handling-in-rust)
 - [Understanding Rust Generics and How to use them](https://blog.logrocket.com/understanding-rust-generics/)
 - [Code Browser for C/C++/Rust](https://codebrowser.dev/)
+- [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
+- [Rust is Not a Functional Language](https://serokell.io/blog/rust-is-not-a-functional-language)
 
 ## Interesting Rust Projects
 - [Rust - Implementing WebSockets](https://www.thespatula.io/rust/rust_websocket/)
