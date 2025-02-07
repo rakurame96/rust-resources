@@ -9,7 +9,7 @@
 # Other Rust Resources
 The Rust community has created a wealth of high-quality and free resources online.
 
-Below resources referred from the [Google Comprehensive Rust course](https://github.com/google/comprehensive-rust/blob/main/src/other-resources.md)
+Below are resources referred from the [Google Comprehensive Rust course](https://github.com/google/comprehensive-rust/blob/main/src/other-resources.md)
 
 ## Official Documentation
 
@@ -33,16 +33,16 @@ More specialized guides hosted on the official Rust site:
 
 ## Unofficial Learning Material
 
-A small selection of other guides and tutorial for Rust:
+A small selection of other guides and tutorials for Rust:
 
 - [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/): covers Rust from the perspective of low-level C programmers.
 - [Rust for Embedded C Programmers](https://docs.opentitan.org/doc/ug/rust_for_c/): covers Rust from the perspective of developers who write firmware in C.
 - [Rust for professionals](https://overexact.com/rust-for-professionals/): covers the syntax of Rust using side-by-side comparisons with other languages such as C, C++, Java, JavaScript, and Python.
 - [Rust on Exercism](https://exercism.org/tracks/rust): 100+ exercises to help you learn Rust.
-- [Ferrous Teaching Material - Book](https://rust-training.ferrous-systems.com/latest/book/ ): a series of small presentations covering both basic and advanced part of the Rust language. Other topics such as WebAssembly, and async/await are also covered.
+- [Ferrous Teaching Material - Book](https://rust-training.ferrous-systems.com/latest/book/ ): a series of small presentations covering both basic and advanced parts of the Rust language. Other topics such as WebAssembly, and async/await are also covered.
 - [Ferrous Teaching Material - Exercises](https://rust-exercises.ferrous-systems.com/latest/book/): Ferrocus Supplement Materials - Exercises
-- [Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/) and [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/): two Rust guides aimed at new developers. The first is a set of 35 videos and the second is a set of 11 modules which covers Rust syntax and basic constructs.
-- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/): in-depth exploration of Rust's memory management rules, through implementing a few different types of list structures.
+- [Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/) and [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/): two Rust guides aimed at new developers. The first is a set of 35 videos, and the second is a set of 11 modules that cover Rust syntax and basic constructs.
+- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/): in-depth exploration of Rust's memory management rules, through implementing a few different linked list structures.
 - [Rustonomicon Book](https://doc.rust-lang.org/nomicon/intro.html)
 - [Rust Books Reference](https://github.com/sger/RustBooks?tab=readme-ov-file#starter-books)
 - [Rust-for-Linux](https://rust-for-linux.com/)
@@ -55,10 +55,10 @@ A small selection of other guides and tutorial for Rust:
 - [24 days of Rust](https://zsiciarz.github.io/24daysofrust/index.html)
 - [24 days of hackage by Ollie Charles](https://blog.ocharles.org.uk/)
 - [Rust Cryptography](https://cryptography.rs/)
-- [Collection of traits which describe functionality of cryptographic primitives](https://github.com/RustCrypto/traits/tree/master)
+- [Collection of traits which describe the functionality of cryptographic primitives](https://github.com/RustCrypto/traits/tree/master)
 - [Algorithms and Data Structures of all kinds written in Rust](https://github.com/alexfertel/rust-algorithms)
 - [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
-- [Gray-Scott with Rust - Writing High Performance Computing (HPC) in Rust!](https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/)
+- [Gray-Scott with Rust - Writing High-Performance Computing (HPC) in Rust!](https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/)
 - [Comprehensive Rust 🦀](https://comprehensive-rust.mo8it.com/)
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 - [Rust Practice Questions](https://rust-unofficial.github.io/rust-practise-questions/about.html)
@@ -116,6 +116,8 @@ A small selection of other guides and tutorial for Rust:
 - [Code Browser for C/C++/Rust](https://codebrowser.dev/)
 - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
 - [Rust is Not a Functional Language](https://serokell.io/blog/rust-is-not-a-functional-language)
+- [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
+- [Cooperative multitasking in Rust](https://elric.pl/blog/cooperative-multitasking)
 
 ## Interesting Rust Projects
 - [Rust - Implementing WebSockets](https://www.thespatula.io/rust/rust_websocket/)
