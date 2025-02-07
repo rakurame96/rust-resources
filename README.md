@@ -118,6 +118,7 @@ A small selection of other guides and tutorials for Rust:
 - [Rust is Not a Functional Language](https://serokell.io/blog/rust-is-not-a-functional-language)
 - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 - [Cooperative multitasking in Rust](https://elric.pl/blog/cooperative-multitasking)
+- [Adding garbage collection to our Rust-based interpreters with MMTk](https://octavelarose.github.io/2025/01/30/mmtk.html)
 
 ## Interesting Rust Projects
 - [Rust - Implementing WebSockets](https://www.thespatula.io/rust/rust_websocket/)
@@ -141,6 +142,7 @@ A small selection of other guides and tutorials for Rust:
 - [Streaming Audio Apis: The Model](https://xd009642.github.io/2024/12/03/streaming-audio-APIs-the-model.html)
 - [Context-Generic Programming Patterns Book](https://patterns.contextgeneric.dev/)
 - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
+- [Series: Making a Language](https://thunderseethe.dev/series/making-a-language/)
 
 ## YouTube Videos to look for (what I watched until now)
 - [All Rust features explained](https://www.youtube.com/watch?v=784JWR4oxOI)
