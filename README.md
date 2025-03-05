@@ -206,7 +206,10 @@ Please see the [Little Book of Rust Books](https://lborb.github.io/book/) for ev
 - [Creating an embedded device driver in Rust](https://blog.mjolner.tech/device-driver-rust/?_bhlid=7a7dfc01dddce41a3f81485829d11c82808d1c49)
 - [Device-Driver Toolkit by Dion Dokter](https://diondokter.github.io/device-driver/)
 - [Running Rust on STM32 Microcontrollers: A Practical Guide for Embedded Enthusiasts](https://medium.com/@saifhajsalem12/running-rust-on-stm32-microcontrollers-a-practical-guide-for-embedded-enthusiasts-fed6550e4aef)
-- [Intro to Embassy : embedded development with async Rust](https://www.youtube.com/watch?v=pDd5mXBF4tY)
+- [Intro to Embassy: embedded development with async Rust](https://www.youtube.com/watch?v=pDd5mXBF4tY)
+- [How Rust & Embassy Shine on Embedded Devices (Part 1)](https://medium.com/@carlmkadie/how-rust-embassy-shine-on-embedded-devices-part-1-9f4911c92007)
+- [How Rust & Embassy Shine on Embedded Devices (Part 2)](https://medium.com/@carlmkadie/how-rust-embassy-shine-on-embedded-devices-part-2-aad1adfccf72)
+- [Murray's (Raspberry Pi Pico W) Embedded Rust Series](https://murraytodd.medium.com/list/murrays-raspberry-pi-pico-w-embedded-rust-series-fac1064d4d03)
 
 ## Miscellaneous
 - [The AOSP and AAOS Meetup](https://aospandaaos.github.io/meetup.html)
