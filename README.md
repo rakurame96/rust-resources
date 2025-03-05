@@ -210,6 +210,7 @@ Please see the [Little Book of Rust Books](https://lborb.github.io/book/) for ev
 - [How Rust & Embassy Shine on Embedded Devices (Part 1)](https://medium.com/@carlmkadie/how-rust-embassy-shine-on-embedded-devices-part-1-9f4911c92007)
 - [How Rust & Embassy Shine on Embedded Devices (Part 2)](https://medium.com/@carlmkadie/how-rust-embassy-shine-on-embedded-devices-part-2-aad1adfccf72)
 - [Murray's (Raspberry Pi Pico W) Embedded Rust Series](https://murraytodd.medium.com/list/murrays-raspberry-pi-pico-w-embedded-rust-series-fac1064d4d03)
+- [Embassy Book - Embedded Rust](https://embassy.dev/book/#_getting_started)
 
 ## Miscellaneous
 - [The AOSP and AAOS Meetup](https://aospandaaos.github.io/meetup.html)
