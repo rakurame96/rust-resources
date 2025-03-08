@@ -172,6 +172,8 @@ A small selection of other guides and tutorials for Rust:
 - [Rust Linz, September 2021 - Yoshua Wuyts - Futures Concurrency in the Future, Maybe](https://www.youtube.com/watch?v=QlPDI9IsSXU)
 - [Comprehending Proc Macros](https://www.youtube.com/watch?v=SMCRQj9Hbx8)
 - [CppCon - C++/Rust Interop: Using Bridges in Practice](https://tylerjw.dev/posts/20240920-cppcon-cpp-rust-interop/)
+- [Rust under the Hood — by Sandeep Ahluwalia — Seattle Rust User Group, January 2025](https://www.youtube.com/watch?v=L8caNpK3Shs)
+- [Creating a website on GitHub pages with mdBook](https://www.youtube.com/watch?v=x3vF9YiWBMQ)
 
 ## Rust Books Recommendation
 - Claus Matzinger • Learn Rust Programming • https://amzn.to/3PeN0Fx
