@@ -145,6 +145,7 @@ A small selection of other guides and tutorials for Rust:
 - [Context-Generic Programming Patterns Book](https://patterns.contextgeneric.dev/)
 - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 - [Series: Making a Language](https://thunderseethe.dev/series/making-a-language/)
+- [Build an Async Runtime in Rust — Part 1 — Hooch](https://medium.com/@bartekwinter3/build-an-async-runtime-in-rust-part-1-hooch-d43e3d96c3e6)
 
 ## YouTube Videos to look for (what I watched until now)
 - [All Rust features explained](https://www.youtube.com/watch?v=784JWR4oxOI)
@@ -213,6 +214,9 @@ Please see the [Little Book of Rust Books](https://lborb.github.io/book/) for ev
 - [How Rust & Embassy Shine on Embedded Devices (Part 2)](https://medium.com/@carlmkadie/how-rust-embassy-shine-on-embedded-devices-part-2-aad1adfccf72)
 - [Murray's (Raspberry Pi Pico W) Embedded Rust Series](https://murraytodd.medium.com/list/murrays-raspberry-pi-pico-w-embedded-rust-series-fac1064d4d03)
 - [Embassy Book - Embedded Rust](https://embassy.dev/book/#_getting_started)
+- [The Embedded Rust Book](https://yerke.github.io/book/print.html)
+- [Rust Meets Bare Metal: I’m Building an OS While Barely Knowing Rust](https://sureshchandrasekar.medium.com/rust-meets-bare-metal-im-building-an-os-while-barely-knowing-rust-05cd06842aa1)
+- [[Serie] Writing bare metal OS in Rust — #2 Setup base project](https://medium.com/@david.ansermot_95565/serie-writing-bare-metal-os-in-rust-2-setup-base-project-92366b582136)
 
 ## Miscellaneous
 - [The AOSP and AAOS Meetup](https://aospandaaos.github.io/meetup.html)
