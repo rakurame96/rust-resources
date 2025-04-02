@@ -121,6 +121,7 @@ A small selection of other guides and tutorials for Rust:
 - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 - [Cooperative multitasking in Rust](https://elric.pl/blog/cooperative-multitasking)
 - [Adding garbage collection to our Rust-based interpreters with MMTk](https://octavelarose.github.io/2025/01/30/mmtk.html)
+- [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 
 ## Interesting Rust Projects
 - [Rust - Implementing WebSockets](https://www.thespatula.io/rust/rust_websocket/)
